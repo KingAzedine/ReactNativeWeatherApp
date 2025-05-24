@@ -15,7 +15,7 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 import axios from 'axios';
 
 // Configuration
-const API_KEY = 'c518f4a368b7ea107f76bb6a6cfc2ee0'; // Remplace par ta clé API
+const API_KEY = 'c518f4a368b7ea107f76bb6a6cfc2ee0';
 const WEATHER_API = 'https://api.openweathermap.org/data/2.5';
 
 // Types
